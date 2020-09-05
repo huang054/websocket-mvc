@@ -5,4 +5,4 @@ Web-socket 为这个项目的demo
 
 mvn install:install-file -DgroupId=com.hj -DartifactId=webSocket-mvc -Dversion=1.0.0 -Dpackaging=jar -Dfile=target/websocket-mvc-1.0.0.RELEASE.jar 把源码打成jar给本地仓库
 
-![demo运行图](https://github.com/huang054/websocket-mvc/blob/master/test.png)
+![demo运行图](https://github.com/huang054/websocket-mvc/blob/master/webSocket.jpg)
